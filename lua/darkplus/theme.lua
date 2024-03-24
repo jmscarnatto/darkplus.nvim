@@ -187,7 +187,7 @@ M.plugins = {
   GitGutterChange = { fg = c.diff_change },
   GitGutterDelete = { fg = c.diff_delete },
   -- Indent-blankline
-  IndentBlanklineChar = { fg = c.dark_gray },
+  IndentBlanklineChar = { fg = c.yellow },
   IndentBlanklineContextChar = { fg = c.context },
   IndentBlanklineSpaceChar = { fg = c.blue },
   IndentBlanklineSpaceCharBlankline = { fg = c.info_yellow },
