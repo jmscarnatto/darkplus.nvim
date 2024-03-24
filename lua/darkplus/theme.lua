@@ -12,7 +12,7 @@ M.base = {
   Boolean = { fg = c.blue },
   Character = { fg = c.green },
   ColorColumn = { bg = c.dark },
-  Comment = { fg = c.dark_gray, style = 'italic' },
+  Comment = { fg = c.green, style = 'italic' },
   Conceal = { fg = c.accent, bg = config.transparent_background and 'NONE' or c.bg },
   Conditional = { fg = c.purple },
   Constant = { fg = c.blue },
