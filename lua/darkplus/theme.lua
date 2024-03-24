@@ -73,6 +73,7 @@ M.base = {
   Question = { fg = c.orange },
   QuickFixLine = { bg = c.dark_gray },
   Repeat = { fg = c.purple },
+  Scope = { fg = c.blue },
   Search = { fg = c.light_gray, bg = c.search_blue },
   SignColumn = { bg = c.bg },
   Special = { fg = c.purple },
